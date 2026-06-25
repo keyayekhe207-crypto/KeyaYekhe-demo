@@ -1,4 +1,4 @@
 # KeyaYekhe-demo
 This is my first git repository.
 <br>
-Author - Keya Yekhe
+Author - Keya (student)
